@@ -143,5 +143,7 @@ JobC/
 
 <p align="center">
   <strong>JobC</strong> – Cầu nối giữa ứng viên và nhà tuyển dụng, hiệu quả và hiện đại!
+</p>
+<p align="center">
   theanhntp@gmail.com
 </p>
